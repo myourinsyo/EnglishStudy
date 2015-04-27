@@ -1,0 +1,4 @@
+Modern web applications often need to parse and generate data in the JSON (JavaScript Object Notation) format
+Modern ｜mˈɔdn/ 現代の; 近世の，近代の.
+parse pάːz/ 解剖する.
+generate /dʒénərèɪt/ 生成する.
